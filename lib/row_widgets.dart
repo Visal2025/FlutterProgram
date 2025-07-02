@@ -12,7 +12,7 @@ class RowWidget extends StatelessWidget {
         backgroundColor: Colors.blueGrey,
       ),
       body: Row(
-        children: [
+         children: [
           Icon(Icons.home),
           SizedBox(width: 10),
           Icon(Icons.search),
